@@ -1,0 +1,33 @@
+{
+    "logo": "assets/images/akreb-logo.png",
+    "title": "AKREB",
+    "navbar": [
+      {
+        "id": "1",
+        "parentId": null,
+        "title": "Home",
+        "icon": null,
+        "type": "type1",
+        "locale": "en",
+        "clientId": null
+      },
+      {
+        "id": "2",
+        "parentId": null,
+        "title": "Shop",
+        "icon": null,
+        "type": "type2",
+        "locale": "en",
+        "clientId": null
+      },
+      {
+        "id": "3",
+        "parentId": null,
+        "title": "Contact",
+        "icon": null,
+        "type": "type3",
+        "locale": "en",
+        "clientId": null
+      }
+    ]
+  }
